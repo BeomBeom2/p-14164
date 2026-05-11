@@ -1,4 +1,4 @@
-package com.back.p14164;
+package com.back;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
